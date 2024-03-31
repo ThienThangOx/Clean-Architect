@@ -1,0 +1,179 @@
+{
+    "Login": {
+        "Login": "Đăng nhập",
+        "OrLoginWith": "Hoặc đăng nhập với",
+        "ForgotPassWord": "Quên mật khẩu ?",
+        "PlaceHolder": {
+            "PhoneOrEmail": "Số điện thoại/email",
+            "PassWord": "Mật khẩu"
+        },
+        "Error": {
+            "UsernameIsRequied": "Tên đăng nhập không được để trống.",
+            "PasswordIsRequired": "Mật khẩu không được để trống.",
+            "WrongPasswordOrUsername": "Tên đăng nhập hoặc mật khẩu không đúng."
+        }
+    },
+    "SideBar": {
+        "General": "Nhân viên",
+        "Cash": "Tiền mặt",
+        "Money": "Tiền gửi",
+        "Shopping": "Mua hàng",
+        "Sales": "Bán hàng",
+        "Bills": "Quản lý hóa đơn",
+        "Stock": "Kho",
+        "Tools": "Công cụ dụng cụ",
+        "Assets": "Tài sản cố định",
+        "Tax": "Thuế",
+        "Price": "Giá thành",
+        "Synthetic": "Tổng hợp",
+        "Budget": "Ngân sách",
+        "Report": "Báo cáo",
+        "Analysis": "Phân tích"
+    },
+    "EmployeeList": {
+        "Logout": "Đăng xuất",
+        "Employee": "Nhân viên",
+        "AddNewEmployee": "Thêm mới nhân viên",
+        "BatchExecution": "Thực hiện hàng loạt",
+        "Edit": "Chỉnh sửa",
+        "Delete": "Xóa",
+        "Replication": "Nhân bản",
+        "RealoadData": "Tải lại dữ liệu",
+        "ImportData": "Nhập khẩu dữ liệu",
+        "ExportData": "Xuất khẩu dữ liệu",
+        "ExprortCurrentRecods": "Xuất những bản ghi đang xem",
+        "ExportAllRecords": "Xuất toàn bộ bản ghi nhân viên",
+        "FindByEmployeeCodeOrName": "Tìm theo mã, tên nhân viên",
+        "Table": {
+            "EmployeeCode": "Mã nhân viên ",
+            "EmployeeName": "Tên Nhân viên",
+            "Gender": "Giới tính",
+            "Birdate": "Ngày sinh",
+            "IdentityNumber": "Số CMND",
+            "Position": "Chức Danh",
+            "DepartmentName": "Tên Đơn Vị",
+            "BankAccount": "Số Tài Khoản",
+            "BankName": "Tên Ngân Hàng",
+            "BankAccountBranch": "Chi Nhánh TK Ngân Hàng",
+            "Male": "Nam",
+            "Female": "Nữ",
+            "Other": "Khác"
+        },
+        "Total": "Tổng số:",
+        "Records": "Bản ghi",
+        "NumberOfRecordsPerPage": "Số bản ghi/trang",
+        "Back": "trước",
+        "Next": "Sau"
+    },
+    "EmployeePopUp": {
+        "EmployeeInformation": "Thông tin nhân viên",
+        "Close": "Đóng (ESC)",
+        "AsACustomer": "Là khách hàng",
+        "AsASupplier": "Là nhà cung cấp",
+        "Code": "Mã",
+        "Name": "Tên",
+        "BirthDate": "Ngày sinh",
+        "Gender": "Giới tính",
+        "Department": "Đơn vị",
+        "IdentityNumber": "Số CMND",
+        "IdentityTitle": "Số chứng minh nhân dân",
+        "Position": "Chức danh",
+        "IssueDate": "Ngày cấp",
+        "IssueBy": "Nơi cấp",
+        "Address": "Địa chỉ ",
+        "MobilePhone": "ĐT di động",
+        "LandLine": "ĐT cố định",
+        "BankAccount": "Tài khoản ngân hàng",
+        "BankName": "Tên ngân hàng",
+        "Branch": "Chi nhánh",
+        "Cancel": "Hủy",
+        "Save": "Cất",
+        "SaveAndAdd": "Cất và Thêm",
+        "Mesage": {
+            "CodeCouldNotBeEmpty": "Mã không được để trống.",
+            "NameCouldNotBeEmpty": "Tên không được để trống."
+        }
+    },
+    "EmployeeImport": {
+        "CloseForm": "Đóng form",
+        "ChooseResouceFile": "Chọn tệp nguồn",
+        "CheckData": "Kiểm tra dữ liệu",
+        "ImportResult": "Kết quả nhập khẩu",
+        "ChooseEmployeeData": "Chọn dữ liệu nhân viên đã chuẩn bị để nhập khẩu vào phần mềm",
+        "ChoseFile": "Chọn tệp",
+        "DownloadSampleFile": "Chưa có tệp mẫu để chuẩn bị dữ liệu? Tải tệp mẫu mà phần mềm cung cấp để chuẩn bị dữ liệu nhập khẩu",
+        "Here": "Tại đây",
+        "ValidLines": " dòng hợp lệ",
+        "InvalidLines": " dòng không hợp lệ",
+        "Status": "Trạng thái",
+        "Valid": "Hợp lệ",
+        "DownloadInvalidFile": "   Tải về tập tin chứa các dòng nhập khẩu không thành công",
+        "DownloadImportResult": " Tải về tập tin chứa kết quả nhập khẩu",
+        "SuccessLines": "+ Số dòng nhập khẩu thành công:",
+        "FailedLines": " + Số dòng nhập khẩu không thành công:",
+        "Help": "Giúp",
+        "GoBack": "Quay lại",
+        "Next": "Tiếp tục",
+        "ImportActitonTitle": "Tiến hành nhập khẩu.",
+        "ImportActiton": "Thực hiện",
+        "Close": "Đóng"
+    },
+    "EmployeeCash": {
+        "Title": "Đây là ADMIN.",
+        "DontHavePermission": "Bạn không có quyền xem nội dung này."
+    },
+    "EmployeeMoney": {
+        "Title": "Tiền gửi."
+    },
+    "EmployeeOther": {
+        "Title": "Ai cũng có thể xem được trang này."
+    },
+    "Combobox": {
+        "errMsg": "Nhâp dữ liệu hợp lệ cho phòng ban."
+    },
+    "DialogMsg": {
+        "confirmMultipleDelete": "Bạn có thực sự muốn xóa những nhân viên đã chọn không ?",
+        "confirmSingleDeleteFront": "Bạn có thực sự muốn xóa Nhân viên",
+        "confirmSingleDeleteBack": " không ?",
+        "confirmDataChange": "Dữ liệu đã thay đổi, bạn có muốn cất không ?",
+        "authorizeWarning": "Bạn không có quyền xem nội dung này.",
+        "expiresLoginSession": "Phiên đăng nhập của bạn đã hết hạn, vui lòng đăng nhập lại.",
+        "employeeExcelFileMustBeValid": "Vui lòng chọn 1 file đúng định dạng file mẫu để chuyển sang màn hình này.",
+        "employeeExcelFileMustBeImport": "Tiến hành nhập khẩu thành công để chuyển sang màn hình này."
+    },
+    "DialogButton": {
+        "Cancel": "Hủy",
+        "No": "Không",
+        "Yes": "Có",
+        "Close": "Đóng",
+        "SayOk": "Đồng ý",
+        "GoBack": "Quay lại"
+    },
+    "FileCommon": {
+        "fileDonotChoosen": "file chưa được chọn."
+    },
+    "ToastContent": {
+        "failed": "Đã xảy ra lỗi khi tải dữ liệu.",
+        "success": "Thao tác thành công.",
+        "undefinedErr": "Đã có lỗi xảy ra tại máy chủ vui lòng thử lại khi khác.",
+        "Undo": "Hoàn tác"
+    },
+    "TextField": {
+        "employeeCodeAlreadyExist": "Mã nhân viên này đã tồn tại.",
+        "dateMustBeLessThanCurrentDate": "Ngày sinh không được lớn hơn ngày hiện tại.",
+        "provideDateMustBeLessThanCurrentDate": "Ngày cấp không được lớn hơn ngày hiện tại.",
+        "dateError": "Ngày không được lớn hơn ngày hiện tại.",
+        "emailWrongFormat": "Email phải theo định dạng somthings{'@'}domain.example.",
+        "phoneWrongtFormat": "Đây không phải số điện thoại di động."
+    },
+    "EmployeeFormRule": {
+        "EmployeeName": "Tên nhân viên không được để trống.",
+        "EmployeeCode": "6 ký tự cuối cùng của mã nhân viên phải là số.",
+        "AddBtn": "Ấn vào nút cất để lưu và đóng form.",
+        "SaveAndAddBtn": "Ấn vào nút Cất và Thêm để lưu và làm mới form.",
+        "emailWrongFormat": "(Nếu có) Email phải theo định dạng somthings{'@'}domain.example."
+    },
+    "CommonErr": {
+        "PageNotFound": "Trang này không tồn tại."
+    }
+}

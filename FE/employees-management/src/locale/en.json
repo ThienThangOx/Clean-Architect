@@ -1,0 +1,179 @@
+{
+    "Login": {
+        "Login": "Login",
+        "OrLoginWith": "Or login with",
+        "ForgotPassWord": "Forgot PassWord ?",
+        "PlaceHolder": {
+            "PhoneOrEmail": "Phone number/Email",
+            "PassWord": "PassWord"
+        },
+        "Error": {
+            "UsernameIsRequied": "Username could not be empty.",
+            "PasswordIsRequired": "Password could not be empty.",
+            "WrongPasswordOrUsername": "Username or password is incorrect."
+        }
+    },
+    "SideBar": {
+        "General": "Employee",
+        "Cash": "Cash",
+        "Money": "Money",
+        "Shopping": "Shopping",
+        "Sales": "Sales",
+        "Bills": "Bills",
+        "Stock": "Stock",
+        "Tools": "Tools",
+        "Assets": "Assets",
+        "Tax": "Tax",
+        "Price": "Price",
+        "Synthetic": "Synthetic",
+        "Budget": "Budget",
+        "Report": "Report",
+        "Analysis": "Analysis"
+    },
+    "EmployeeList": {
+        "Logout": "Logout",
+        "Employee": "Employee",
+        "AddNewEmployee": "Add new employee",
+        "BatchExecution": "Batch execution",
+        "Edit": "Edit",
+        "Delete": "Delete",
+        "Replication": "Replication",
+        "RealoadData": "Reload data",
+        "ImportData": "Import data",
+        "ExportData": "Export data",
+        "ExprortCurrentRecods": "Export currently recordings",
+        "ExportAllRecords": "Export all employee recordings",
+        "FindByEmployeeCodeOrName": "Find by employee code/ name",
+        "Table": {
+            "EmployeeCode": "Employee Code",
+            "EmployeeName": "Empoyee Name",
+            "Gender": "Gender",
+            "Birdate": "Birth Date",
+            "IdentityNumber": "Identity Number",
+            "Position": "Position",
+            "DepartmentName": "Department Name",
+            "BankAccount": "Bank Account",
+            "BankName": "Bank Name",
+            "BankAccountBranch": "Bank Account Branch",
+            "Male": "Male",
+            "Female": "Female",
+            "Other": "Other"
+        },
+        "Total": "Total:",
+        "Records": "Records",
+        "NumberOfRecordsPerPage": "Number of records/page",
+        "Back": "Back",
+        "Next": "Next"
+    },
+    "EmployeePopUp": {
+        "EmployeeInformation": "Employee information",
+        "Close": "Close (ESC)",
+        "AsACustomer": "As a customer",
+        "AsASupplier": "As a supplier",
+        "Code": "Code",
+        "Name": "Name",
+        "BirthDate": "Birth date",
+        "Gender": "Gender",
+        "Department": "Department",
+        "IdentityNumber": "Identity number",
+        "IdentityTitle": "Identity number",
+        "Position": "Position",
+        "IssueDate": "Issue date",
+        "IssueBy": "Issue by",
+        "Address": "Address",
+        "MobilePhone": "Mobile phone",
+        "LandLine": "LandLine",
+        "BankAccount": "Bank account",
+        "BankName": "Bank Name",
+        "Branch": "Branch",
+        "Cancel": "Cancel",
+        "Save": "Save",
+        "SaveAndAdd": "Save and Add",
+        "Mesage": {
+            "CodeCouldNotBeEmpty": "Code could not be empty",
+            "NameCouldNotBeEmpty": "Name could not be empty"
+        }
+    },
+    "EmployeeImport": {
+        "CloseForm": "Close form",
+        "ChooseResouceFile": "Resouce file",
+        "CheckData": "Check data",
+        "ImportResult": "Import result",
+        "ChooseEmployeeData": "Select prepared employee data to import into the software",
+        "ChoseFile": "Choose File",
+        "DownloadSampleFile": "You don't have a sample file yet? Download the software sample file provided",
+        "Here": "Here",
+        "ValidLines": " valid lines",
+        "InvalidLines": "invalid lines",
+        "Status": "Status",
+        "Valid": "Valid",
+        "DownloadInvalidFile": "Downloading files containing imported lines failed",
+        "DownloadImportResult": "Download the file containing the import results",
+        "SuccessLines": "+ Number of lines imported successfully:",
+        "FailedLines": "+ Number of failed import lines:",
+        "Help": "Help",
+        "GoBack": "Go Back",
+        "Next": "Next",
+        "ImportActitonTitle": "Import",
+        "ImportActiton": "Import",
+        "Close": "Close"
+    },
+    "EmployeeCash": {
+        "Title": "This is ADMIN.",
+        "DontHavePermission": "You do not have permission to view this content."
+    },
+    "EmployeeMoney": {
+        "Title": "Money Page."
+    },
+    "EmployeeOther": {
+        "Title": "Anyone can view this page."
+    },
+    "Combobox": {
+        "errMsg": "Department do not exsit."
+    },
+    "DialogMsg": {
+        "confirmMultipleDelete": "Do you really want to delete the selected employees ?",
+        "confirmSingleDeleteFront": "Do you really want to delete Employee",
+        "confirmSingleDeleteBack": "?",
+        "confirmDataChange": "The data has changed, do you want to save it ?",
+        "authorizeWarning": "You do not have permission to view this content.",
+        "expiresLoginSession": "Your login session has expired, please log in again.",
+        "employeeExcelFileMustBeValid": "Please select a file with the correct sample file format to switch to this screen.",
+        "employeeExcelFileMustBeImport": "The import is successful to move to this screen."
+    },
+    "DialogButton": {
+        "Cancel": "Cancel",
+        "No": "No",
+        "Yes": "Yes",
+        "Close": "Close",
+        "SayOk": "Agree",
+        "GoBack": "Go Back"
+    },
+    "FileCommon": {
+        "fileDonotChoosen": "File has not been selected."
+    },
+    "ToastContent": {
+        "failed": "An error occurred while loading data.",
+        "success": "Successful manipulation.",
+        "undefinedErr": "An error occurred on the server, please try again later.",
+        "Undo": "Undo"
+    },
+    "TextField": {
+        "employeeCodeAlreadyExist": "This employee code already exists.",
+        "dateMustBeLessThanCurrentDate": "Birth date cannot be greater than the current date.",
+        "provideDateMustBeLessThanCurrentDate": "The issue date cannot be greater than the current date.",
+        "dateError": "Date cannot be greater than the current date.",
+        "emailWrongFormat": "Email must be in the format somthings{'@'}domain.example.",
+        "phoneWrongtFormat": "This is not the mobile phone number."
+    },
+    "EmployeeFormRule": {
+        "EmployeeName": "Employee name could not be empty.",
+        "EmployeeCode": "The last 6 characters of the employee code must be numbers.",
+        "AddBtn": "Click to Save button to save and close form.",
+        "SaveAndAddBtn": "Click to Save and Add to save and reset form to create new Employee.",
+        "emailWrongFormat": "(If any) Email must be in the format somthings{'@'}domain.example."
+    },
+    "CommonErr": {
+        "PageNotFound": "Page Not Found."
+    }
+}
