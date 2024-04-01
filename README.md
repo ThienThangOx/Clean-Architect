@@ -1,11 +1,16 @@
-#Employee management
+# Employee management
 
 ## BE
-## .NET 6
-## Clean-Architecture
+- .NET 6
+- Clean-Architecture
+- UnitOfWork
+- Jwt
+- MemCache
 
 ## FE
-## Vuejs 3
+- Vuejs 3
+- Vuex
+- I18n (Multiple laguage)
 
 # How to run
 Clone this repository
