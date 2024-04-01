@@ -19,12 +19,12 @@ git clone https://github.com/ThienThangOx/Clean-Architect.git
 cd Fe
 cd employees-management
 ```
-(if you use npm)
+(For npm)
 ```
 npm install 
 npm run serve 
 ```
-(if you use yarn)
+(For yarn)
 ```
 yarn install
 yarn serve 
